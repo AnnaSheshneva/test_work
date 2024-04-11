@@ -1,0 +1,35 @@
+.butt {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    background-color: grey;
+    width: 400px;
+    border: 1px solid  black;
+    margin: 0px 530px;
+    border-radius: 5px;
+}
+.button{
+    width: 80px;
+    border: 3px solid  goldenrod;
+    border-radius: 50px;
+    background-color: floralwhite;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#inp_calc {
+    margin-top: 20px;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    margin-bottom: 25px;
+    border: 1px solid  black;
+}
+.equally {
+    background-color: orange;
+}
+.del {
+    background-color: bisque;
+}
+.myCulc {
+    text-align: center;
+    margin-top: 100px;
+    
+}
