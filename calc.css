@@ -4,7 +4,7 @@
     background-color: grey;
     width: 400px;
     border: 1px solid  black;
-    margin: 0px 530px;
+   
     border-radius: 5px;
 }
 .button{
@@ -29,7 +29,7 @@
     background-color: bisque;
 }
 .myCulc {
-    text-align: center;
+   
     margin-top: 100px;
     
 }
