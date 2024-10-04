@@ -37,3 +37,21 @@
     margin-top: 100px;
     
 }
+
+
+.element{ 
+    display: none;
+    width: 250px;
+    height: 180px;
+    margin-top: 15px;
+}
+.element.openn{
+  display: block;
+}
+
+.button_one{
+    margin-top: 30px;
+    width: 200px;
+    color: beige;
+    background-color: rgb(139, 17, 110);
+}

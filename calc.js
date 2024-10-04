@@ -18,3 +18,10 @@ function delet(){
    inp.value = '';
 }
 document.querySelector('.del').onclick =  delet;
+
+let elem = document.querySelector('.element');
+let btn = document.querySelector('.button_one');
+
+btn.onclick = function() {
+  elem.classList.toggle('openn');
+};
